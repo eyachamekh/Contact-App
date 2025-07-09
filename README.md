@@ -16,18 +16,31 @@ A simple React application to display a list of users, view detailed profiles, a
 ## 📁 Project Structure
 
 /public
+
 /src
+
 ├── components
+
 │ └── UserCard.js
+
 ├── pages
+
 │ ├── UserProfilePage.js
+
 │ └── UsersPage.js  
+
 ├── styles
+
 │ └── UserStyles.css
+
 ├── App.js
+
 └── index.js
+
 db.json
+
 README.md
+
 .env
 
 
@@ -55,4 +68,9 @@ npx json-server --watch db.json --port 3001
 
 npm start
 
+## Testing Email Functionality
+
+To test the email sending feature, please update the `email` field in the `db.json` file with your own email address. 
+
+This way, when you trigger the email from the app, it will be sent to your inbox.
 
