@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Eya Test",
+      "email": "chamekheya1@gmail.com",
+      "phone": "+21693377210",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=eya---test"
+    },
+    {
+      "id": 2,
+      "name": "Eya Chamekh",
+      "email": "chamekheya1@gmail.com",
+      "phone": "+21693377210",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=eyaaaa"
+    },
+    {
+      "id": 3,
+      "name": "mohamed",
+      "email": "chamekheya1@gmail.com",
+      "phone": "+21693377210",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=mohameeed"
+    }, 
+    {
+      "id": 4,
+      "name": "salah",
+      "email": "chamekheya1@gmail.com",
+      "phone": "+21693377210",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=salaaah"
+    }
+  ]
+}
